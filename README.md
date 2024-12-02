@@ -28,10 +28,9 @@ In order to reproduce the results of this study, first read and follow the instr
 
 # References
 
-[1] QuinnRadich, “Prepare your PyTorch ML model for classification,” Microsoft.com, Jun. 28, 2024. https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-data (accessed Nov. 15, 2024).
+[1] alzheimer detection Classification Dataset by alzheimer, “alzheimer detection Classification Dataset by alzheimer,” Roboflow, 2024. https://universe.roboflow.com/alzheimer-h49wu/alzheimer-detection-ra7oh (accessed Nov. 15, 2024).
 ‌
-[2] QuinnRadich, “Use PyTorch to train your image classification model,” learn.microsoft.com. https://learn.microsoft.com/en-us/windows/ai/windows-ml/tutorials/pytorch-train-model (accessed Nov. 15, 2024).
 
-[3] alzheimer detection Classification Dataset by alzheimer, “alzheimer detection Classification Dataset by alzheimer,” Roboflow, 2024. https://universe.roboflow.com/alzheimer-h49wu/alzheimer-detection-ra7oh (accessed Nov. 15, 2024).
-‌
-[4] “resnet50 — Torchvision main documentation,” Pytorch.org, 2023. https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html#torchvision.models.resnet50 (accessed Nov. 17, 2024).
+[2] “resnet50 — Torchvision main documentation,” Pytorch.org, 2023. https://pytorch.org/vision/main/models/generated/torchvision.models.resnet50.html#torchvision.models.resnet50 (accessed Nov. 17, 2024).
+
+[3] hosnahoseini, “Brain_MRI_classification_TransferLearning-CI/MRI_Classification.ipynb at main · hosnahoseini/Brain_MRI_classification_TransferLearning-CI,” GitHub, 2024. https://github.com/hosnahoseini/Brain_MRI_classification_TransferLearning-CI/blob/main/MRI_Classification.ipynb (accessed Nov. 24, 2024).
